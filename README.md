@@ -1,3 +1,3 @@
-# League of Legends Victory Prediction
+# League of Legends Victory Prediction Using ML
 
 Predicting an esports game’s win or lose is not easy and requires extensive analysis. Fortunately, machine learning algorithms may help create insights from the game data. This project focusses on predicting High Elo (Diamond Ranked) League of Legends game results only looking at its first 10 minutes. Visualization and Feature selection is done to filter out variables that does and does not impact the prediction. Prediction is done through various classification methods (Random Forest, Logistic Regression and K-Nearest Neighbor). The performance metric used for this project is accuracy. 
